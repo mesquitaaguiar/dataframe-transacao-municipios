@@ -1,0 +1,2 @@
+transacao-015;Curitiba;Paraná;2020-11-10 11:22:00;ordem-cta-00000001
+transacao-020;Curitiba;Paraná;2020-11-10 16:03:00;ordem-cta-00000002

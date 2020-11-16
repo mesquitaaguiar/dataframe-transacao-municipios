@@ -1,0 +1,2 @@
+transacao-015;Salvador;Bahia;2020-11-10 10:00:00;ordem-ss-00000001
+transacao-015;Salvador;Bahia;2020-11-10 11:00:00;ordem-ss-00000002

@@ -1,0 +1,2 @@
+transacao-015;Aracaju;Sergipe;2020-11-10 11:22:00;ordem-ara-00000001
+transacao-020;Aracaju;Sergipe;2020-11-10 16:03:00;ordem-ara-00000002
